@@ -1,0 +1,22 @@
+PODS:
+  - disk_info (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - disk_info (from `.symlinks/plugins/disk_info/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+
+EXTERNAL SOURCES:
+  disk_info:
+    :path: ".symlinks/plugins/disk_info/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+
+SPEC CHECKSUMS:
+  disk_info: d4eed722706deeb4d06af404a1b649b03856eec8
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+
+PODFILE CHECKSUM: b6a0a141693093b304368d08511b46cf3d1d0ac5
+
+COCOAPODS: 1.6.1
