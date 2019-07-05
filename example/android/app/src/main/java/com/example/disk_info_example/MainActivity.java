@@ -1,4 +1,4 @@
-package com.example.disk_info_example;
+package com.pillarhou.disk_info_example;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

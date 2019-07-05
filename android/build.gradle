@@ -1,4 +1,4 @@
-group 'com.example.disk_info'
+group 'com.pillarhou.disk_info'
 version '1.0-SNAPSHOT'
 
 buildscript {

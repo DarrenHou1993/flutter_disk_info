@@ -1,4 +1,4 @@
-package com.example.disk_info;
+package com.pillarhou.disk_info;
 
 import android.os.Environment;
 import android.os.StatFs;
