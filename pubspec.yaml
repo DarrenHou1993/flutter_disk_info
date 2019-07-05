@@ -2,7 +2,7 @@ name: disk_info
 description: This Flutter plugin provides an API for querying disk info.
 version: 0.0.1
 author: pillar <pillarhou@yeah.net>
-homepage:
+homepage: https://github.com/DarrenHou1993/flutter_disk_info.git
 
 environment:
   sdk: '>=2.1.0 <3.0.0'
